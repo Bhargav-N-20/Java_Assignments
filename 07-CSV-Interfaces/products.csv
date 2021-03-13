@@ -1,0 +1,4 @@
+id,category,name,brand,description,quantity_per_unit,unit_price,picture,discount
+1,dada,tom,dada,asa,123,232.00,dsacaca,12.00
+2,vegitable,Potato,Fresho,Potato,1 KG approx. 9 to 10 nos,25.00,https://vinbasket.herokuapp.com/product-images/10000159_14-fresho-potato.jpg,5.00
+3,asds,Jer,asscc,adasdc,34,90.00,ccac,23.00
