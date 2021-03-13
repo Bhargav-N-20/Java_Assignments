@@ -1,0 +1,11 @@
+{
+	"name": "Bhargav N",
+	"email": "abx@example.com",
+	"phone": "1234567890",
+		"address":{
+	"street": "1st main",
+	"city": "Bengaluru",
+	"state": "karnataka",
+	"country": "India"
+}
+}

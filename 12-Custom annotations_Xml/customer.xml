@@ -1,0 +1,11 @@
+<Customer>
+	<name>Bhargav N</name>
+ 	<email>abx@example.com</email>
+ 	<phone>1234567890</phone>
+ <Address>
+	<street>1st main</street>
+ 	<city>Bengaluru</city>
+ 	<state>karnataka</state>
+ 	<country>India</country>
+</Address>
+</Customer>
